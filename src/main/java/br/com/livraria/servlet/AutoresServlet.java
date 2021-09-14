@@ -48,7 +48,7 @@ public class AutoresServlet extends HttpServlet {
 		String nome = req.getParameter("nome");
 		String email = req.getParameter("email");
 		LocalDate dataNascimento = LocalDate.parse(req.getParameter("data"), DateTimeFormatter.ofPattern("dd/MM/yyyy"));
-		String miniCurriculo = req.getParameter("mini_curriculo");
+		String miniCurriculo = req.getParameter("miniCurriculo");
 		Autor autor = new Autor(nome, dataNascimento, email, miniCurriculo);
 		String paramId = req.getParameter("id");
 		
