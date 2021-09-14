@@ -1,6 +1,7 @@
 # Resumo do projeto
-Projeto realizado no conteúdo do módulo 1 do Bootcamp de Java (Alura Bootcamps).
-Posteriormente novas versões deste mesmo projeto serão acrescentadas, e a cada módulo haverá implementações no projeto com o objetivo de torna-lo melhor.
+Projeto desafio de conclusão do primeiro módulo do bootcamp de Java da ALura (Alura Bootcamps).
+Essa é a primeira versão do projeto, sendo feita utilizando apenas os recursos Java Web.
+(Em breve esta mesma aplicação será realizada com o uso do framework Spring e no formato de uma API REST.)
 
 ## 🔨 Funcionalidades do projeto
 
